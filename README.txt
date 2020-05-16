@@ -1,0 +1,2 @@
+Control: WASD
+Fire: F

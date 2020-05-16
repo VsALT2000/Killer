@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="538a7119-eaa7-4f98-966e-b31b79c99178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Architecture/KillerMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KillerTests/InitializationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KillerTests/PlayerWithGunTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/BFS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KillerTests/IntegrationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelTestsCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/PlayerWithGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Monster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/KillerWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/CreatureAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/CreatureMapCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/CreatureCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/ICreature.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KillerTests/PlayerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Wall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KillerTests/PlayerWithMonsterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Architecture/SinglyLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entities/Exit.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tests/InitializationTests.cs" />
+        <option value="$PROJECT_DIR$/Tests/PlayerTests.cs" />
+        <option value="$PROJECT_DIR$/Tests/PlayerWithGunTests.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/LevelTestsCreator.cs" />
+        <option value="$PROJECT_DIR$/Architecture/ICreature.cs" />
+        <option value="$PROJECT_DIR$/Entities/Wall.cs" />
+        <option value="$PROJECT_DIR$/Architecture/BFS.cs" />
+        <option value="$PROJECT_DIR$/Architecture/GameState.cs" />
+        <option value="$PROJECT_DIR$/Entities/Exit.cs" />
+        <option value="$PROJECT_DIR$/Entities/Ammo.cs" />
+        <option value="$PROJECT_DIR$/Entities/Door.cs" />
+        <option value="$PROJECT_DIR$/Entities/Gun.cs" />
+        <option value="$PROJECT_DIR$/Entities/Key.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/Architecture/KillerWindow.cs" />
+        <option value="$PROJECT_DIR$/Architecture/KillerMenu.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/Properties/IntegrationTest.cs" />
+        <option value="$PROJECT_DIR$/LevelCreator.cs" />
+        <option value="$PROJECT_DIR$/Entities/Player.cs" />
+        <option value="$PROJECT_DIR$/Entities/Monster.cs" />
+        <option value="$PROJECT_DIR$/Entities/PlayerWithGun.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/InitializationTests.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/PlayerTests.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/PlayerWithGunTests.cs" />
+        <option value="$PROJECT_DIR$/LevelTestsCreator.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/IntegrationTest.cs" />
+        <option value="$PROJECT_DIR$/KillerTests/PlayerWithMonsterTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bdeAuIQzKJ0grP4mI7NjxWGXEi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Killer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Killer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538a7119-eaa7-4f98-966e-b31b79c99178" name="Default Changelist" comment="" />
+      <created>1588966257340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588966257340</updated>
+      <workItem from="1588966258493" duration="1155000" />
+      <workItem from="1588969011852" duration="51000" />
+      <workItem from="1589001135217" duration="583000" />
+      <workItem from="1589002292862" duration="13530000" />
+      <workItem from="1589020027272" duration="15595000" />
+      <workItem from="1589352948235" duration="5604000" />
+      <workItem from="1589532260535" duration="726000" />
+      <workItem from="1589578109535" duration="1499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1323" height="89" key="GridCell.Tab.0.bottom" timestamp="1589533011525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589001877920" />
+    <state width="1323" height="89" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589533011525" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="89" key="GridCell.Tab.0.center" timestamp="1589533011525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589001877920" />
+    <state width="1323" height="89" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589533011525" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="89" key="GridCell.Tab.0.left" timestamp="1589533011525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589001877920" />
+    <state width="1323" height="89" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589533011525" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="89" key="GridCell.Tab.0.right" timestamp="1589533011525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589001877920" />
+    <state width="1323" height="89" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589533011525" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976071" />
+    <state width="1323" height="227" key="GridCell.Tab.2.bottom" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.2.center" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.2.left" timestamp="1589041298876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1589041298876" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.2.right" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.3.bottom" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.3.center" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.3.left" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.3.right" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.4.bottom" timestamp="1589041298878">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.4.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589041298878" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.4.center" timestamp="1589041298878">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.4.center/0.0.1366.738@0.0.1366.738" timestamp="1589041298878" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.4.left" timestamp="1589041298877">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.4.left/0.0.1366.738@0.0.1366.738" timestamp="1589041298877" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state width="1323" height="227" key="GridCell.Tab.4.right" timestamp="1589041298878">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.4.right/0.0.1366.738@0.0.1366.738" timestamp="1589041298878" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588968976072" />
+    <state x="275" y="100" key="Rider.ProjectTemplateDialog.Size" timestamp="1589002775440">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="100" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1589002775440" />
+    <state x="638" y="252" width="644" height="536" key="find.popup" timestamp="1588968907629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="252" width="644" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588968907629" />
+  </component>
+</project>
